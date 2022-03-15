@@ -20,7 +20,7 @@ managing their classes, including marking of attendance, will be much easier wit
 SQL Database System. In general, this project aims to enhance efficiency and at the
 same time maintain information accurateness. We will create the student database
 management system in a web and mobile friendly application using the SQL Database
-System
+System.
 
 ## ER Diagram - 
 <img src = "E.png" height=500>
