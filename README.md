@@ -24,3 +24,14 @@ System.
 
 ## ER Diagram - 
 <img src = "E.png" height=500>
+
+## Apps Screens done for now - 
+
+#### Login Screen
+<img src = "pic1 (2).png" height=300>
+
+#### Home Screen
+<img src = "pic1 (1).png" height=300>
+
+#### Subject Screen
+<img src = "pic1 (3).png" height=300>
